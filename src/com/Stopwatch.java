@@ -1,4 +1,4 @@
-package com.Day6LogicalProgram;
+package com;
 
 import java.math.BigInteger;
 import java.time.Duration;

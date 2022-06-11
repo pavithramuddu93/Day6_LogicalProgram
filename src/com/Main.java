@@ -1,4 +1,4 @@
-package com.Day6LogicalProgram;
+package com;
 
 public class Main {
 

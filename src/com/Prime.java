@@ -1,4 +1,4 @@
-package com.Day6LogicalProgram;
+package com;
 
 public class Prime {
     public static void main(String[] args) {
